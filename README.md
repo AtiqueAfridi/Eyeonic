@@ -1,2 +1,2 @@
-# eyeonic_fyp_II_Mids
+# Eyeonic 
 Eyeonic | Leveraging Machine Learning in Detecting Ocular Conditions
